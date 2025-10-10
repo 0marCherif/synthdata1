@@ -1,0 +1,112 @@
+
+2
+
+
+2
+
+Based on the citation context:  
+- The phrase "has been shown previously" directly references prior work by Weeds and Weir (2005) to establish existing knowledge in the domain.  
+- It provides foundational context for the current paper's topic ("tuning similarity to the application of interest"), typical of a **Background** citation.  
+- No elements indicate usage, extension, comparison, motivation, or future work (e.g., "our method builds on...", "unlike...", "to address this gap...").
+
+**Answer: 0**
+
+3
+
+The citation intent is classified as **3: MOTIVATION**.  
+The author cites these works (Chafe 1979, Halliday and Hasan 1976, etc.) to identify a limitation ("a certain limitation in their formal techniques"), highlighting a gap in existing research. This critique explicitly establishes the *need* for the current study’s approach or contributions, aligning with MOTIVATION's purpose of illustrating a research gap or necessity.  
+
+Key clues:  
+- "Although...all of them share a certain limitation...": Frameworks the cited works as insufficient.  
+- Exposes a methodological shortcoming to justify the current work's objectives.  
+
+0
+
+0
+
+2
+
+The citation lists multiple parsers to present their results alongside the author's model, clearly indicating a **comparison** of different approaches and their outputs. This matches option 2: COMPARES OR CONTRASTS.
+
+4
+
+
+0
+
+0
+
+Based on the citation context:  
+- The sentence describes encoding a rule "**in terms of the setup of**" Pollard and Sag (1994).  
+- This indicates the current work is **building upon**, reformulating, or adapting the framework established in the cited work.  
+- The phrase "in terms of the setup of" explicitly signals **extension or adaptation** of the cited methodology.  
+
+**Classification:** CONTINUATION (extends the citation's methods/framework).  
+
+**Answer:** 4
+
+
+0
+
+2
+
+
+The citation of Kiefer et al. (1999) contrasts the authors' approach with prior findings, explicitly stating their method is "**at variance**" with Kiefer et al.'s results. This highlights a **difference in methodologies or outcomes**, aligning with the "COMPARES OR CONTRASTS" intent.
+
+Answer: 2
+
+The citation "(Mehdad et al., 2010)" is used to show that the authors' results **align with or support** the findings from the cited paper. The phrase "in line with the findings" explicitly indicates a **direct comparison** between the current results and prior work. 
+
+This fits the **COMPARES OR CONTRASTS** intent (2), as it highlights similarity without introducing background, methodology usage, motivation, extension, or future work. 
+
+**Answer: 2**
+
+2
+
+2
+
+4
+
+1
+
+Explanation: The phrase "lexical generalizations are captured using lexical underspecification (Kathol 1994; Krieger and Nerbonne 1992)" indicates the current work is directly applying a specific method (lexical underspecification) from these cited sources. This aligns with the "USES" category (using methods from the citation). The other intents don't fit: it isn't providing background generally, motivating the research, extending the prior work, comparing it, or proposing future work.
+
+
+Based on the context and phrasing, the citation:
+
+"The bottom panel of table 1 lists the results for the chosen lexicalized model (...) and **five recent statistical parsers (Ratnaparkhi, 1999; Collins, 1999; Charniak, 2000; Collins, 2000; Bod, 2001)**."
+
+is **listing existing work (the statistical parsers) as part of the established research landscape relevant to the current domain and experiment** (comparing results in a table). It provides context for the domain and the basis for the comparison. The author isn't *using* those parsers, *extending* them, *comparing* them directly *to each other* in this sentence, *motivating* their work based on them, or stating they are *future work*. They are simply citing relevant background knowledge.
+
+Therefore, the intent is **0:BACKGROUND**.
+
+ANSWER: 0
+
+1  
+// The citation intent is "USES":  
+// The sentence describes how Macklovitch & Hannan (1996) actively **applied** Brown et al.'s Model 2 (a specific method) to evaluate link tokens.  
+// Key indicators: "trained Brown et al.'s Model 2" explicitly shows utilization of a method from the cited work.  
+// No other intent applies:  
+// - Not BACKGROUND (not general domain context).  
+// - Not MOTIVATION (not illustrating a need).  
+// - Not FUTURE/CONTINUATION (not future work or extensions).  
+// - No comparison language.
+
+1
+
+3
+
+The citation highlights a limitation ("no formal evaluation was performed") in prior work (Lapalme and Kosseim 2003; Roy and Subramaniam 2006), illustrating a methodological gap that motivates the current study's approach. This aligns with the **MOTIVATION** category (number 3), as it explicitly shows the need for improved methods or data.
+
+
+2  
+
+The citation is used to **contrast** the performance of Turkish (as reported by Oflazer et al., 2003 and Atalay et al., 2003) with another subject. Key indicators:  
+- The phrase "By contrast" explicitly signals a comparison.  
+- The sentence highlights differences (high root accuracy vs. low attachment scores) between Turkish and the implied baseline/subject.  
+- Specifies metrics (88% and 68%) to quantify the contrast, further emphasizing analytical comparison.  
+
+This intent aligns with **2: COMPARES OR CONTRASTS**.
+
+
+0
+
