@@ -16,7 +16,7 @@ la todo
 - [x] rédiger en même temps ! (pendant la génération par exemple)   
 
 done:
-
+- [x] Dataset10 est un flop total. 
 - [x] pre-processing
 - [x] régler et réparer la génération         
 - [x] entraîner et évaluer (évaluation) 
