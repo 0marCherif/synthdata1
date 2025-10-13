@@ -1,0 +1,39 @@
+0
+
+The citation context lists prior work (e.g., transferring annotations, paraphrase discovery, unsupervised POS/parsing) as **examples demonstrating the broader importance** of the main subject beyond its original scope. This provides foundational context for the domain's evolution, fitting "BACKGROUND".
+
+The phrase "We use the DL learner as described in Collins and Singer (1999)" explicitly indicates adoption of methodology from the cited work.  
+This aligns with **USES** (using data/methods from the citation). Although "motivated by" appears, it provides supplementary justification and **does not override the active deployment of the cited method**.  
+
+**Answer: 1**
+
+3
+
+3
+
+The citation to Hearst (1992) is introduced with the phrase "motivated by research in lexical semantics". This directly indicates that the prior work (Hearst, 1992) provided the inspiration or rationale for the authors' choice of method ("corpus-based method for inducing SCs"). This aligns with the MOTIVATION category ("to illustrate need for... methods").
+
+2
+
+The citation from Sells (1985) is used to **express a contrast**: it presents a sentence ("Reagan thinks bananas") that would normally be considered strange (*contrast*), but argues that it *is* acceptable in a specific context ("in fact acceptable if..."). This directly demonstrates a difference based on context.
+
+*   **Explaining the categories:**
+    *   **0: BACKGROUND:** Would be if it established general domain knowledge without stating a problem or exception.
+    *   **1: USES:** Would be if the current paper applied Sells' method or data.
+    *   **2: COMPARES OR CONTRASTS (Correct):** Explicitly shows a difference between how the sentence is perceived normally (strange) vs. in a specific context (acceptable).
+    *   **3: MOTIVATION:** Would be if Sells' work was used to highlight a problem or gap that the current paper addresses. Here it's an *example* used in the current paper's argument, not a motivator *for* the argument.
+    *   **4: CONTINUATION:** Would be if the current paper explicitly extended Sells' data, method, or theory.
+    *   **5: FUTURE:** Is not relevant, as it doesn't reference future directions.
+
+1
+
+The citation explicitly states that Collins and Duffy (2002) **use** Bod's (1992) proposed set of tree fragments ("use exactly the same set... as proposed in Bod (1992)"). This directly matches the "USES" intent category (using methods/data from the cited work). The other elements (Collins 2000 arguing for an approach and Collins/Duffy 2002 carrying it out) provide context but don't change the core "uses" relationship to Bod (1992).
+
+Based on the analysis of the citation context:
+
+1. **Function in the text**: The citation (Keller and Lapata, 2003) establishes the validity of the MI measure, specifically comparing it favorably to co-occurrence frequency (`f(v,n)`).  
+2. **Role**: It provides foundational evidence to justify the use of MI in the current approach ("MI is proportional to...", "which was shown to be a better measure").  
+3. **Intent Classification**: This serves as **background knowledge** supporting the methodological choice in the current work. It references prior established research to ground the paper's own methodology.  
+
+**Answer: 0** (BACKGROUND)
+

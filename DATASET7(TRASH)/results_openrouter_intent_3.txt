@@ -1,0 +1,30 @@
+Based on the analysis:
+- The citation explicitly states the author is **using** ("using the perceptron segmentation model... and the perceptron POS tagging model") methods from the cited papers (Zhang and Clark, 2007; Collins, 2002).
+- This matches the definition of **USES**: "to use data, methods, etc from the citation."
+
+**ANSWER:** 1
+
+4
+
+The citation refers to the authors' own prior work ("we assessed") and indicates the current study builds upon or extends that previous research (feature ablation tests). This aligns with "CONTINUATION" (extending data/methods).  
+
+**Key indicators**:  
+- "Previously" establishes a timeline of related work.  
+- "We assessed" confirms it's their own prior study.  
+- The context implies progression/extension of methods.  
+
+Other categories don't fit:  
+- Not general domain context (BACKGROUND:0)  
+- Not using external tools/methods (USES:1)  
+- No comparison (COMPARES:2)  
+- Not highlighting a problem/gap (MOTIVATION:3)  
+- Not suggesting future work (FUTURE:5)
+
+4
+
+0
+
+1
+
+The citation states: "natural language programs... can be used as referential levels for commonsense reasoning." The phrase "can be used" explicitly indicates the authors are applying the referenced work (Jensen and Binot 1988; Zadrozny 1987a, 1987b) as a tool or method in their own research. This matches the definition of "USES" (using data, methods, etc. from the citation).
+
