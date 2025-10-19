@@ -20,3 +20,12 @@ done:
 - [x] pre-processing
 - [x] régler et réparer la génération         
 - [x] entraîner et évaluer (évaluation) 
+
+
+
+MODELS FOR REASONING:
+o3 (high)	
+DeepSeek R1 (5/28)	
+Claude Opus 4 (Thinking 16k)	
+Gemini 2.5 Pro (Preview)	
+Qwen/Qwen3-235B-A22B-Thinking-2507
