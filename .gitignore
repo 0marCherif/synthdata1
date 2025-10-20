@@ -1,1 +1,5 @@
 api_openrouter.txt
+test.pt
+.gitignore
+validation.pt
+train.pt
