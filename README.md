@@ -20,16 +20,19 @@ We assume that this poor performance of LLMs is due to massive class imbalance a
 
 We analyze where in the LLM residual stream do the most relevant concepts for this task form and explore synthetic data
 generation from a small number of labeled samples to alleviate these issues.
+\
 1- We extract activations for each layers for each sample in ACL ARC's train
     We do that in Extract_activations.ipynb
-
+\
 2- We then evaluate those activations in Eval_layers.ipynb
 
 ## Generate synthetic data
-
+\
     1- The best dataset generated is Dataset 4. The methodology of the paper is based on it.
         the details and the code used to generate is in openrouter.ipynb
+\
     2- We encode that synthetic data in evaluation.ipynb
+\
     3- then it is evaluated also in evaluation.ipynb
 
 

@@ -17,3 +17,5 @@ embedding_model = SentenceTransformer(
     trust_remote_code=True, # Often required for custom model architectures
     # use_flash_attention_2=True, # Uncomment if flash-attn is installed
 )
+
+
